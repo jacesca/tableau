@@ -1,0 +1,9 @@
+tableau:
+
+public license: https://www.tableau.com/products/public/download
+
+data material: 
+https://www.artofvisualization.com/pages/tableau
+https://sdsclub.com/tableau-a-z-tips-and-resources/
+Videos:
+https://public.tableau.com/app/profile/kirill.eremenko#!/

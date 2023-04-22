@@ -11,6 +11,8 @@ A simple map to show profit by state.
 
 > Data source: [map SuperStoreUS-2015.xlsx](https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P1-SuperStoreUS-2015.xlsx)
 
+> Dashboard: [Basic Map](https://public.tableau.com/app/profile/jacesca/viz/D1-BasicMap/Profits)
+
 
 # 2: A basic bar chart
 
@@ -32,6 +34,8 @@ Employees are meausere on total value of sales($)
 
 > Data source: [OfficeSupplies.csv](https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P1-OfficeSupplies.csv)
 
+> Dashboard: [Annual Bonus Analysis](https://public.tableau.com/app/profile/jacesca/viz/D2-AnnualBonusAnalysis/AnnualBonusAnalysis)
+
 *Tips*:
 * Click & hold on a column field, and when it is over the colors press ctrl and when the plus sign is visible let it go, then move the color category below the marks.
 
@@ -52,6 +56,8 @@ Employees are meausere on total value of sales($)
 
 > Data source: [Long-Term-Unemployment-Statistics.xlsx](https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P1-Long-Term-Unemployment-Statistics.xlsx)
 
+> Dashboard: [Time Series](https://public.tableau.com/app/profile/jacesca/viz/D3-TimeSeries/Timeseries)
+
 
 # 4: Mapas and Scatterplots
 
@@ -67,7 +73,9 @@ Employees are meausere on total value of sales($)
 * Hierarchies are required each time they are presen in the Dimensions, so Tableau can know about them for you to build the visualization.
 * Main difference between Action-filter and Action-Highlight: When you use Action-Filter you are removing data from analysis before it is illustrated on the visualization, when you use Action-Highlight first all of the data is visualised and only after that the action is applied. This can lead to discrepancies in results.
 
-> Data source: [AmazingMartEU2.xlsx](https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P1-AmazingMartEU2.xlsx)
+> Data source: [AmazingMartEU2.xlsx](https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P1-AmazingMartEU2.xlsx) 
+
+> Dashboard: [Maps & Scatter Plots](https://public.tableau.com/app/profile/jacesca/viz/D4-MapsScatterPlots/MapsScatterPlots)
 
 
 # 5: Joining, Blending and Relationships
@@ -107,6 +115,10 @@ Employees are meausere on total value of sales($)
 >* [Airline-Comparison.xlsx](https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P1-Airline-Comparison.xlsx)
 >* [Brazilian-E-commerce-Dataset](https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P1-Brazilian-E-Commerce-Dataset.zip), taken from [Kaggle.com](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
+> Dashboard: 
+>* [Blenders & Joins](https://public.tableau.com/app/profile/jacesca/viz/D5_1-BlendersJoins/BlenderJoins)
+>* [Relationships](https://public.tableau.com/app/profile/jacesca/viz/D5_2Relationships/SellersLocation)
+
 
 # 6: Storytelling
 
@@ -145,6 +157,8 @@ Employees are meausere on total value of sales($)
 
 > Data source: [UK-Bank-Customers.csv](UK-Bank-Customers.csv)
 
+> Dashboard: [Stories & Pages](https://public.tableau.com/app/profile/jacesca/viz/D6-StoriesPages/BankCustomersStory)
+
 
 # 7: Data Preparation
 
@@ -163,6 +177,8 @@ Employees are meausere on total value of sales($)
 * For unknown values: Edit locations, filter exclude, or default value/position.
 
 > Data source: [PersonalVehicleSalesGlobal.xlsx](https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P1-PersonalVehicleSalesGlobal.xlsx)
+
+> Dashboard: [Data Cleaning & Preparation](https://public.tableau.com/app/profile/jacesca/viz/D7-DataCleaningPreparations/Map)
 
 
 # 8: Clusters
@@ -199,6 +215,8 @@ Tasks:
 > Data source: 
 >* [StartupExpansion.xlsx](https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P1-StartupExpansion.xlsx)
 >* [US-Cities-Population.csv](https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P1-US-Cities-Population.csv)
+
+> Dashboard: [Clusters](https://public.tableau.com/app/profile/jacesca/viz/D8-Clusters/Cluster)
 
 
 # 9: PDF, Unions, Spatial files & Data Integrity
@@ -271,9 +289,13 @@ Tasks:
     * Select just NAICS that have 2 char lengths, we only need high levels (2 chars) not low levels (3 chars). To do this: create a calculated field (len) and then add a new filter on the data source.
     * Hide Establishments, Average Employment and Total Wage.
 
-Data source:
-* [Section 9 Challenge I](https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P1-Section-9-Challenge-I.pdf)
-* [NYC Park Crime Stats](https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P1-nyc-park-crime-stats-q1-2018.pdf)
-* [NYC Parks and Public Spaces – Spatial Files](https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P1-NYC-Parks-and-Public-Spaces-Spatial-Files.zip)
-* [Section 9 Challenge II](https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P1-Section-9-Challenge-II.pdf)
-* [Employment and Wages Annual Data](https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P1-quarterly-census-of-employment-and-wages-annual-data-beginning-2000.csv)
+>Data source:
+>* [Section 9 Challenge I](https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P1-Section-9-Challenge-I.pdf)
+>* [NYC Park Crime Stats](https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P1-nyc-park-crime-stats-q1-2018.pdf)
+>* [NYC Parks and Public Spaces – Spatial Files](https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P1-NYC-Parks-and-Public-Spaces-Spatial-Files.zip)
+>* [Section 9 Challenge II](https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P1-Section-9-Challenge-II.pdf)
+>* [Employment and Wages Annual Data](https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P1-quarterly-census-of-employment-and-wages-annual-data-beginning-2000.csv)
+
+> Dashboard: 
+>* [Data Integrity, Maps, PDF & more](https://public.tableau.com/app/profile/jacesca/viz/D9_1-DataIntegrityMapsPDFandmore/CrimeStatsMap)
+>* [Tooltips techniques](https://public.tableau.com/app/profile/jacesca/viz/D9_2TooltipsTechniques/NewYorkAverageSalaryperIndustry)
