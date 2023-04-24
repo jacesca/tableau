@@ -1,5 +1,5 @@
 # 1: Advanced Tableau
-Project visible at [Tableau Jacesca's Profile](https://public.tableau.com/app/profile/jacesca/).<br>
+Developed exercises are visible at [Tableau Jacesca's Profile](https://public.tableau.com/app/profile/jacesca/).<br>
 Material can be found [here](https://www.artofvisualization.com/pages/tableau-advanced).<br>
 [Other resources for Tableau](https://sdsclub.com/tableau-2022-advanced-training-master-tableau-in-data-science/)
 
