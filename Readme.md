@@ -1,5 +1,5 @@
 # Tableau 2022 A-Z: Hands-On Tableau Training for Data Science
-Project visible at [Tableau Jacesca's Profile](https://public.tableau.com/app/profile/jacesca/)<br>
+Developed exercises are visible at [Tableau Jacesca's Profile](https://public.tableau.com/app/profile/jacesca/)<br>
 Material can be found [here](https://www.artofvisualization.com/pages/tableau).
 
 Tool to boost the *skills in data science (capacity and Ability to Understand the domain knowledge)*
